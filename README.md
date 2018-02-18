@@ -1,0 +1,2 @@
+# CyfrowyGrosz
+CyfrowyGrosz Core
